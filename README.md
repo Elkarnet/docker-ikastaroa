@@ -93,7 +93,7 @@ docker rm kaixodaemon
 
 ### 2.1 - Servidor web
 
-Antes de continuar, recomendamos descargar el siguiente [fichero](/archive/master.zip). Descomprime el fichero y accede al directorio **labs/run-adibideak/nginx**:
+Antes de continuar, recomendamos descargar el siguiente [fichero](https://github.com/Elkarnet/docker-ikastaroa/archive/master.zip). Descomprime el fichero y accede al directorio **labs/run-adibideak/nginx**:
 
 ```
 cd labs/run-adibideak/nginx
