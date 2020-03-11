@@ -202,6 +202,29 @@ docker run --rm -e SITE_URL=https://facebook.com/ -v $(pwd)/vol:/data/:rw lab-cu
 
 ## 4 - Docker-compose
 
+### 4.1 - Instalación
+
+Para poder utilizar docker-compose, necesitamos instalarlo:
+
+https://docs.docker.com/compose/install/
+
+Comprueba que está correctamente instalado:
+
+```
+docker-compose --version
+```
+
+### 4.2 - Ejemplo flask-redis
+
+Accede al directorio `labs/compose-adibideak/flask-redis` y ejecuta **docker-compose up**:
+
+```
+cd labs/compose-adibideak/flask-redis
+docker-compose up
+```
+
+Accede al servicio `http://<ip-servidor>:5000`.
+
 ## Honi buruz
 
 Hurrengo webgune hauetan oinarritua:
