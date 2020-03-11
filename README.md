@@ -96,6 +96,12 @@ docker rm kaixodaemon
 Antes de continuar, recomendamos descargar el siguiente [fichero](https://github.com/Elkarnet/docker-ikastaroa/archive/master.zip). Descomprime el fichero y accede al directorio **labs/run-adibideak/nginx**:
 
 ```
+# Descargar y descomprimir el fichero
+cd /home/dockerlab
+wget https://github.com/Elkarnet/docker-ikastaroa/archive/master.zip
+unzip master.zip
+
+# Acceder al siguiente directorio
 cd labs/run-adibideak/nginx
 ```
 
