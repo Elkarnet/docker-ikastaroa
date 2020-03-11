@@ -102,7 +102,7 @@ wget https://github.com/Elkarnet/docker-ikastaroa/archive/master.zip
 unzip master.zip
 
 # Acceder al siguiente directorio
-cd labs/run-adibideak/nginx
+cd docker-ikastaroa-master/labs/run-adibideak/nginx
 ```
 
 Vamos a ejecutar el siguiente comando:
